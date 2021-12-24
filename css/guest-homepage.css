@@ -26,5 +26,12 @@ img {
 .container-fluid h1 {
     color: #8F5849;
     font-size: 32px;
+    font-size: 56px;
     padding : 0px 0px 24px;
+
+}
+section{
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
 }
