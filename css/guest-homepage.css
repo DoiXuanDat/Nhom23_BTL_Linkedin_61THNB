@@ -82,6 +82,13 @@ main.container {
 .btn-content-topic:hover{
    background-color: #c4bebd;
 }
+.btn-content-topic-none{
+    display: none ;
+}
+.btn-show-more:active .btn-content-topic-none{
+    display: block;
+    
+}
 .suggest-find{
     margin: 0;
     padding: 60px 20px;
